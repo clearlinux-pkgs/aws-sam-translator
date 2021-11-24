@@ -1,5 +1,4 @@
-1.41.0
-pypi(black)
-pypi(mock)
-pypi(pathlib2)
-pypi(pylint)
+1.42.0
+pypi(boto3)
+pypi(jsonschema)
+pypi(six)
